@@ -24,8 +24,8 @@ class ProductPurchaseType extends AbstractType
                     'Pearl White' => 'white',
                     'Silver' => 'silver',
                 ],
-                'label' => 'Select Color',
-                'attr' => ['style' => 'max-width:200px;'],
+                'label' => 'Selectioner Couleur',
+                'attr' => ['style' => 'max-width:190px;'],
             ]);
     }
 
